@@ -115,6 +115,6 @@ The objective of this project is to transform raw sales data into an interactive
 
 ## 👨‍💻 Author
 
-**Raj Chauhan**
+**Kundan**
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
